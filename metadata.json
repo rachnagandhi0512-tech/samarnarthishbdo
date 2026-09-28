@@ -1,0 +1,6 @@
+{
+  "name": "ધોરણ ૮ ગુજરાતી - સમાનાર્થી શબ્દો રમતો (Std 8 Gujarati Synonyms Game)",
+  "description": "ધોરણ ૮ ગુજરાતી નવા અભ્યાસક્રમ માટે સમાનાર્થી શબ્દોની આકર્ષક જોડકાં રમત, MCQ ક્વિઝ અને શબ્દકોશ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
